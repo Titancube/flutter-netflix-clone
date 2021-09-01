@@ -1,6 +1,6 @@
-# flutter_basic
+# flutter_netflix_clone
 
-A new Flutter project.
+UI clone of Netflix mobile application
 
 ## Getting Started
 
